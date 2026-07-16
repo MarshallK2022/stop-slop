@@ -38,6 +38,16 @@ Eliminate predictable AI writing patterns from prose.
 
 13. **Never ship a worse sentence.** If a rule-driven rewrite reads worse than the original, keep the original. The rules serve the prose. See the override rule in [references/voice.md](references/voice.md).
 
+14. **Attribute company claims.** Hedge factual claims about companies with attributive phrasing ("says it is") rather than stating them as fact. When a named author is available, credit organizational claims as "Author Name (Publication)".
+
+15. **Attribute quotes without drumbeat or props.** Vary quote attribution ("the article", "the announcement") rather than repeating the company name as speaker. Drop redundant framing verbs ("puts the mechanism plainly"); let the quote stand on its own.
+
+16. **Introduce companies on first mention.** Give an unfamiliar company a descriptor ("a company called X", "X, a payments startup") rather than the bare name. Companion to rule 11.
+
+17. **Make contrasts explicit.** Join contrasting full sentences with an explicit conjunction like "But" instead of leaving the contrast implicit. This does not revive the "Not X. But Y." fragment formula banned by rule 2; it means real connective tissue between complete sentences.
+
+18. **Open sections by framing the tension.** Start a section with one plain-language sentence that summarizes the tension before diving into the source.
+
 ## Quick Checks
 
 Before delivering prose:
@@ -61,6 +71,12 @@ Before delivering prose:
 - No first person anywhere in an authored piece? Put the author back in.
 - Bolded parallel blocks where prose would do? Convert some to uneven paragraphs.
 - Is the rewritten sentence worse than the original? Revert it.
+- Company claim stated as fact? Hedge with attribution ("says it is") or credit "Author Name (Publication)".
+- Company name repeated as the speaker of every quote? Vary with "the article" or the author.
+- Framing verb propping up a quote ("puts it plainly")? Cut it; the quote stands alone.
+- Unfamiliar company dropped in bare? Introduce it with a descriptor at first mention.
+- Two sentences contrast with nothing joining them? Add "But" or another explicit conjunction.
+- Section opens inside source detail? Add one plain framing sentence that states the tension first.
 
 ## Scoring
 

@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-07-16
+
+### Added
+
+**Attribution and framing (SKILL.md)**
+- Core rules 14-18: hedge company claims with attributive phrasing ("says it is"; "Author Name (Publication)"); vary quote attribution ("the article") instead of repeating the company name; drop redundant framing verbs and let quotes stand; introduce unfamiliar companies with a descriptor at first mention; join contrasting full sentences with an explicit conjunction; open sections with one plain-language sentence framing the tension
+- Six new quick checks
+- Sourced from editorial preferences inferred from hand edits to Hawkeye drafts
+
 ## 2026-07-15
 
 ### Added
