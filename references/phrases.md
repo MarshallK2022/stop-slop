@@ -126,3 +126,15 @@ Sentences that announce importance without naming the specific thing. Kill these
 - "The consequences are real"
 
 If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
+
+## Meta-Flourishes and Reveal Tells
+
+Phrases that editorialize the framing instead of stating the fact. Kill these.
+
+- "is the whole story" / "is now the whole story" / "that gap is the story" / "is the story"
+- "is the gap" / "the gap is X" / "X is the gap" / "names the gap" / "lives in that gap" / "the gap between X and Y is where..." (declaring an abstract noun to BE the gap, or that the gap is the point, instead of stating the two facts and letting the distance show)
+- "is the real X" / "is the tell" / "is the receipt" / "is the point" / "is where it gets interesting" (the "X is the [abstract noun]" naming construction generally)
+- "the X was expected, the Y was not" (and the binary "A jumped, B did not" / "A moved, B held" contrast used as a dramatic reveal)
+- "A did B. C did not." - the two-sentence version of the same contrast, ending on a clipped "did not." (e.g. "Regulators moved. Congress did not." / "The banks disclosed. The brokers did not."). Banned in every tense and variant ("does not," "has not," "will not"). Write one sentence that states both facts plainly, or two sentences that each carry their own verb and object.
+
+Name the two facts directly and let the distance between them speak. Do not announce that something "is the story," "is the gap," or "is the point," and do not label a gap as a gap; show the two things and stop.

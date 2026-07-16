@@ -12,6 +12,7 @@ These create false drama. State the point directly.
 | "It feels like X. It's actually Y." | Setup/reveal cliche |
 | "The question isn't X. It's Y." | Rhetorical misdirection |
 | "Not X. But Y." / "not X, it's Y" / "isn't X, it's Y" | Mechanical contrast |
+| "A did B. C did not." (e.g. "Regulators moved. Congress did not.") | Two-sentence contrast with a clipped "did not" reveal - banned in all forms |
 | "It's not this. It's that." | Same formula, different words |
 | "stops being X and starts being Y" | False transformation arc |
 | "doesn't mean X, but actually Y" | Negation-then-assertion crutch |

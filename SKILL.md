@@ -28,6 +28,16 @@ Eliminate predictable AI writing patterns from prose.
 
 8. **Cut quotables.** If it sounds like a pull-quote, rewrite it.
 
+9. **Fix the cadence, not only the phrases.** Prose can pass rules 1-8 and still read as AI: verbless fragments, uniform polished declaratives, symmetric scaffolding, every paragraph landing a conclusion, no author anywhere. See [references/voice.md](references/voice.md).
+
+10. **Write with an author present.** Use first person where the form allows it. Show judgment ("this is the part we care most about"), ask the reader's questions on the page, hedge where honestly unsure. An authored piece with no author in it is an AI tell.
+
+11. **Define terms at first use.** No insider asides. Every term of art, product name, or cultural reference gets one defining clause at first mention, calibrated to the piece's actual audience. No "the cool kids already know" tone.
+
+12. **Prefer the literal statement.** Replace figurative gestures ("source of truth," "fails in known ways," "waiting at a gate") with what concretely happens. Name the mechanism, the failure modes, the steps.
+
+13. **Never ship a worse sentence.** If a rule-driven rewrite reads worse than the original, keep the original. The rules serve the prose. See the override rule in [references/voice.md](references/voice.md).
+
 ## Quick Checks
 
 Before delivering prose:
@@ -44,6 +54,13 @@ Before delivering prose:
 - Vague declarative ("The implications are significant")? Name the specific implication.
 - Narrator-from-a-distance ("Nobody designed this")? Put the reader in the scene.
 - Meta-joiners ("The rest of this essay...")? Delete. Let the essay move.
+- Verbless fragment posing as a sentence ("High trust, static, the founding layer.")? Give it a verb.
+- Sentence written to be quoted? Fold it into a plain statement of what happens.
+- Term, product name, or reference dropped without explanation? Define it at first use for this piece's audience.
+- Metaphor where a literal statement fits ("source of truth," "erodes," "gate")? Say what concretely happens.
+- No first person anywhere in an authored piece? Put the author back in.
+- Bolded parallel blocks where prose would do? Convert some to uneven paragraphs.
+- Is the rewritten sentence worse than the original? Revert it.
 
 ## Scoring
 
@@ -56,8 +73,10 @@ Rate 1-10 on each dimension:
 | Trust | Respects reader intelligence? |
 | Authenticity | Sounds human? |
 | Density | Anything cuttable? |
+| Presence | Is there an author in the prose? |
+| Clarity | Could an outsider to this field follow every sentence? |
 
-Below 35/50: revise.
+Below 49/70: revise.
 
 ## Examples
 

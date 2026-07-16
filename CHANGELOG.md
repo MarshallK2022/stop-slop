@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-07-15
+
+### Added
+
+**Voice, audience, and literalness (references/voice.md, new)**
+- Machine cadence patterns: verbless fragment stacks, aphoristic closers, uniform declaratives, symmetric scaffolding, mini-conclusion paragraph endings, day-drumbeat vignettes
+- Author presence: first person, on-page judgment, reader's questions, honest hedging
+- Insider asides: define every term of art, product name, and cultural reference at first mention, calibrated to the piece's audience
+- Literal beats figurative: replace mechanism-hiding metaphors with statements of what concretely happens
+- The override rule: if a rule-driven rewrite reads worse than the original, keep the original
+
+**SKILL.md**
+- Core rules 9-13 (cadence, author presence, term definitions, literalness, never ship a worse sentence)
+- Eight new quick checks
+- Two new scoring dimensions (Presence, Clarity); revision threshold now 49/70
+
 ## 2026-01-13
 
 ### Added
