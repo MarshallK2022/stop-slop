@@ -29,7 +29,7 @@ stop-slop/
 
 **Claude Code:** `git clone https://github.com/MarshallK2022/stop-slop.git ~/.claude/skills/stop-slop`
 
-**Claude Projects:** Upload `SKILL.md` and reference files to project knowledge.
+**Claude Projects:** Upload `SKILL.md` and reference files to project knowledge.  The easiest way to do it is by selecting the green Code button above, opening the chevron in it, selecting zip file, downloading that, then opening and putting both skill.md and the contents of the reference files folder into a new Claude.ai Project you set up for writing.
 
 **Custom instructions:** Copy core rules from `SKILL.md`.
 
